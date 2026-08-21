@@ -34,14 +34,6 @@ window.__dsh3 = {
           "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": true,
           "hideSave": true
-        },
-         {
-          "name": "上药控股镇江有限公司",
-          "host": "www.jsjtyy.com",
-          "account": "hzzmhd",
-          "pwdCipher": "wpTCo8KYXcKRwqU=",
-          "hasCaptcha": false,
-          "hideSave": true
         }
       ]
     }
