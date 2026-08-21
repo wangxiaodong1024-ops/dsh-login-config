@@ -77,7 +77,7 @@ window.__dsh3 = {
         },
         {
           "name": "上药控股镇江有限公司",
-          "host": "www.jsjtyy.com:20400",
+          "host": "jsjtyy.com:20400",
           "account": "hzzmhd",
           "pwdCipher": "wpTCo8KYXcKRwqU=",
           "hasCaptcha": false,
