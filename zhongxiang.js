@@ -22,6 +22,15 @@ window.__dsh3 = {
           "hideSave": true
         },
         {
+          "name": "华润扬州医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "华东",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
+        },
+        {
           "name": "南京医药扬州有限公司",
           "url": "http://222.190.117.9/member/yzyy/",
           "host": "222.190.117.9",
