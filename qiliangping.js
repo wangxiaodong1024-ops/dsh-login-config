@@ -67,6 +67,15 @@ window.__dsh3 = {
           "hideSave": true
         },
         {
+          "name": "华润扬州医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "华东",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
+        },
+        {
           "name": "国药控股无锡有限公司",
           "url": "http://61.177.117.158:9098/WebGXLS.aspx",
           "host": "61.177.117.158:9098",
