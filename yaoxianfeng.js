@@ -2,15 +2,13 @@ window.__dsh3 = {
   "people": {
     "姚贤峰": {
       "enabled": true,
-      "check": "w4nClsKFwrHDjsOR",
-      "quota": 14,
       "sites": [
         {
           "name": "南京药业股份有限公司",
           "url": "http://222.190.117.9/member/yaoye",
           "host": "222.190.117.9",
           "account": "1003528",
-          "pwdCipher": "wrTCqsKvw57CpsKkworCisKdw4LCqmfCo8KWwpw=",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": false,
           "hideSave": true
         },
@@ -19,7 +17,7 @@ window.__dsh3 = {
           "url": "http://222.190.117.9/member/ysfw",
           "host": "222.190.117.9",
           "account": "1022002",
-          "pwdCipher": "wrTCqsKvw57CpsKkworCisKdw4LCqmfCo8KWwpw=",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": false,
           "hideSave": true
         },
@@ -28,7 +26,7 @@ window.__dsh3 = {
           "url": "http://lxhrjs.crpcg.com",
           "host": "lxhrjs.crpcg.com",
           "account": "hr-hd",
-          "pwdCipher": "wrTCqsKvw57CpsKkworCisKdw4LCqmfCo8KWwpw=",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": true,
           "hideSave": true
         },
@@ -37,7 +35,7 @@ window.__dsh3 = {
           "url": "https://lx.js-pc.com.cn/#/login",
           "host": "lx.js-pc.com.cn",
           "account": "hzzmhd",
-          "pwdCipher": "wrTCqsKvw57CpsKkworCisKdw4I=",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrw=",
           "hasCaptcha": true,
           "hideSave": true
         }
