@@ -1,7 +1,7 @@
 window.__dsh3 = {
   "people": {
     "张三": {
-      "enabled": true,
+      "enabled": false,
       "check": "w4/CkcKjwr7CpsOK",
       "sites": [
         {
