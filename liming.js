@@ -18,6 +18,15 @@ window.__dsh3 = {
           "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": true,
           "hideSave": true
+        },
+        {
+          "name": "华润南通医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "hzzm",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
         }
       ]
     }
