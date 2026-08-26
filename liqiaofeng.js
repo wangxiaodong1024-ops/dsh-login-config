@@ -29,6 +29,24 @@ window.__dsh3 = {
           "pwdCipher": "wq7DpsOhwqXCmcKrwr7DgsKmwpvCog==",
           "hasCaptcha": false,
           "hideSave": true
+        },
+        {
+          "name": "南京医药股份有限公司镇江分公司",
+          "url": "http://222.190.117.9/member/nyzj",
+          "host": "222.190.117.9",
+          "account": "hzzmhdzy",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": false,
+          "hideSave": true
+        },
+        {
+          "name": "南京医药股份有限公司",
+          "url": "http://222.190.117.9/member/ysfw",
+          "host": "222.190.117.9",
+          "account": "1022002",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": false,
+          "hideSave": true
         }
       ]
     }
