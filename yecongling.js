@@ -1,6 +1,6 @@
 window.__dsh3 = {
   "people": {
-    "业丛林": {
+    "业从林": {
       "enabled": true,
       "sites": [
         {
