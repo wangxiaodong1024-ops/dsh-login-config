@@ -38,6 +38,15 @@ window.__dsh3 = {
           "pwdCipher": "wpTCo8KYXcKRwqU=",
           "hasCaptcha": false,
           "hideSave": true
+        },
+        {
+          "name": "江苏九州通医药有限公司",
+          "url": "http://flow.jztit.com/user/login.html",
+          "host": "flow.jztit.com",
+          "account": "hzzmhdcf",
+          "pwdCipher": "wq7DpsOhwqXCmcKrwr7DgsKmwpvCog==",
+          "hasCaptcha": false,
+          "hideSave": true
         }
       ]
     }
