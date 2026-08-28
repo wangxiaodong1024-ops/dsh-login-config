@@ -1,0 +1,54 @@
+window.__dsh3 = {
+  "people": {
+    "李文静": {
+      "enabled": true,
+      "sites": [
+        {
+          "name": "华润无锡医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "hzzmhd",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
+        },
+        {
+          "name": "华润无锡医药有限公司江阴分公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "zmhdjy",
+          "pwdCipher": "wqzDpcOSwqbCksKmwqTCo8Km",
+          "hasCaptcha": true,
+          "hideSave": true
+        },
+        {
+          "name": "华润张家港百禾医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "中美华东1",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
+        },
+        {
+          "name": "国药控股无锡有限公司",
+          "url": "http://61.177.117.158:9098/WebGXLS.aspx",
+          "host": "61.177.117.158:9098",
+          "account": "100388",
+          "pwdCipher": "wq7DhsOBwoXCkcKswqbCp8KZwp/CrA==",
+          "hasCaptcha": true,
+          "hideSave": true
+        },
+        {
+          "name": "华润江苏医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "HZZMHD",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
+        }
+      ]
+    }
+  }
+};
