@@ -1,4 +1,4 @@
-window.__dsh3 = {
+ window.__dsh3 = {
   "people": {
     "朱素梅": {
       "enabled": true,
@@ -54,6 +54,15 @@ window.__dsh3 = {
           "host": "jsjtyy.com:20400",
           "account": "hzzmhd",
           "pwdCipher": "wpTCo8KYXcKRwqU=",
+          "hasCaptcha": false,
+          "hideSave": true
+        },
+        {
+          "name": "国药控股扬州有限公司",
+          "url": "http://flow.sinopharm-yz.com:8081/login.aspx",
+          "host": "flow.sinopharm-yz.com:8081",
+          "account": "中美华东",
+          "pwdCipher": "wq7DpsOhwqXCmcKowqrCucK5wqnCnsKcX2g=",
           "hasCaptcha": false,
           "hideSave": true
         }
