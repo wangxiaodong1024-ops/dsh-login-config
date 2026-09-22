@@ -47,6 +47,15 @@ window.__dsh3 = {
           "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": true,
           "hideSave": true
+        },
+        {
+          "name": "华润江苏医药有限公司",
+          "url": "http://lxhrjs.crpcg.com",
+          "host": "lxhrjs.crpcg.com",
+          "account": "HZZMHD",
+          "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
+          "hasCaptcha": true,
+          "hideSave": true
         }
       ]
     }
