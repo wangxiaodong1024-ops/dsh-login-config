@@ -38,6 +38,15 @@ window.__dsh3 = {
           "pwdCipher": "wq7DpsOhwqXCmMKnwqzCosKwwrzCrMKeXWRm",
           "hasCaptcha": true,
           "hideSave": true
+        },
+         {
+          "name": "国药控股常州有限公司",
+          "url": "http://218.93.53.116:8086/sinopharmcz/client/userlogin.jsp",
+          "host": "218.93.53.116:8086",
+          "account": "ZMHDGS",
+          "pwdCipher": "wq7DpsOhwqXCmcKowqrCucK5wqnCnsKcX2g=",
+          "hasCaptcha": true,
+          "hideSave": true
         }
       ]
     }
