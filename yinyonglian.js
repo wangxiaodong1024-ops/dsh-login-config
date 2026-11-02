@@ -1,7 +1,7 @@
 window.__dsh3 = {
   "people": {
     "殷永联": {
-      "enabled": true,
+      "enabled": FALSE,
       "sites": [
         {
           "name": "南京药业股份有限公司",
